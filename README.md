@@ -4,3 +4,7 @@ Assignment repository for UNT CSCE1015
 
 ## Julie Germain
 $Julie Germain
+## EUID
+
+## Favorite Professor
+$(Julie Germain)
